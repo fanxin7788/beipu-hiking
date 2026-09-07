@@ -1,0 +1,6 @@
+{
+  "name": "北埔徒步 · 绿色山野探索",
+  "description": "新竹北埔冷泉与五指山风景区步道徒步活动与路线探索应用",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
